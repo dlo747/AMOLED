@@ -1,14 +1,6 @@
 # AMOLED Blue
 A true black Home Assistant theme for devices with AMOLED displays
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
-
-[![Subscribe to YouTube channel][youtube-sub-shield]][youtubesubscribe]
-
-[![Become a Patron][become-a-patron-shield]][becomeapatron]
-
-[![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
-
 ### Screenshots
 **1. Desktop**
 <p align="center">
